@@ -14,7 +14,7 @@ Feature: Google Translate functionality
     Examples: Step 1 Pallets
       | english_word | expected_result |
       | dog          | куче 123        |
-      | cat          | котка           |
+      | cat          | котка    kuche  |
       | door         | врата           |
       | beer         | Бира            |
 

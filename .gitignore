@@ -1,0 +1,25 @@
+# Eclipse
+.classpath
+.project
+.settings/
+ 
+# Intellij
+.idea
+build
+history
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+.gradle
+
+# User
+src/test/ava/econt/MyDefinitionTestSuite.java
+
+
+

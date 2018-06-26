@@ -1,6 +1,7 @@
 Feature: Google Translate functionality
-  I would like to be able to translate english words
-
+  In order to understand a word that I don't know
+  As a user
+  I want to be able to look up the meaning of the word
 
   #Negative pallets path Step 1
   Scenario Outline: Google translate english
